@@ -68,7 +68,7 @@ main {
     flex-direction: column;
     width: 40%;
     margin: 0 auto;
-    margin-top: 200px;
+    margin-top: 125px;
     align-items: center;
 }
 
@@ -149,8 +149,8 @@ a:hover {
 
 footer{
     /* border: 1px solid red; */
-    margin-top: 300px;
-    padding: 25px 20px 30px;
+    margin-top: 250px;
+    padding: 25px 20px 20px;
     display: flex;
     flex-direction: column;
     background-color: #f2f2f2;
