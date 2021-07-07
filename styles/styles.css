@@ -91,13 +91,18 @@ main {
     
 }
 
+#sign-in:hover {
+    opacity: 90%;
+    text-decoration: none;
+}
+
 .upper-text > div > a {
     color: #222;
 
 }
 
 #sign-in {
-    padding: 8px 27px;
+    padding: 10px 25px;
     font-size: 14px;
     color: white;
     background-color: #1a73e8;
