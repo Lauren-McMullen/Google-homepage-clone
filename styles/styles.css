@@ -120,7 +120,7 @@ main {
 }
 
 .search-items {
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 #search-bar {
@@ -170,7 +170,7 @@ a:hover {
 
 footer{
     /* border: 1px solid red; */
-    margin-top: 250px;
+    margin-top: 280px;
     padding: 25px 20px 20px;
     display: flex;
     flex-direction: column;
