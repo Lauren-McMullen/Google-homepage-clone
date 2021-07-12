@@ -74,6 +74,7 @@ main {
     align-items: center;
 }
 
+
 .nav-items {
     padding: 18px 8px;
 }
@@ -180,6 +181,9 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+a:link {
+    color: #222; 
 }
 
 #language-link {
