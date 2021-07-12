@@ -154,6 +154,7 @@ main {
     border-radius: 6px;
     font-weight: 100;
     border: 1px solid transparent;
+    color: #222;
 }
 
 .lower-button:hover{
