@@ -139,7 +139,7 @@ main {
 }
 
 #search-bar:hover {
-    box-shadow:  0 1px 6px rgba(32,33,36,.28);
+    box-shadow: 0 1px 6px rgba(32,33,36,.28);
 }
 
 .lower-button {
@@ -148,6 +148,7 @@ main {
     padding: 8px 18px;
     border-radius: 6px;
     font-weight: 100;
+    border: 1px solid transparent;
 }
 
 .lower-button:hover{
