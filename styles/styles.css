@@ -234,6 +234,6 @@ footer{
 }
 
 .footer-items:link {
-    color: #797979;
+    color: #797979 !important;
 }
 
